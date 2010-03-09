@@ -1,0 +1,3 @@
+Some config modules are integrated or derived from portions of Caellian's code.
+
+Support is provided by the compilation's author and not by the author(s) of the individual addons.

@@ -1,0 +1,24 @@
+## Interface: 30300
+## Author: Recluse
+## Title: recConfig
+## Notes: UI configuration
+## Version: $Id: recConfig.toc 550 2010-03-02 15:27:53Z john.d.mann@gmail.com $
+## Dependencies: recLib, recMedia
+
+core.lua
+modules\achievement.lua
+modules\afk.lua
+modules\battleground.lua
+modules\buffs.lua
+modules\cvars.lua
+modules\duels.lua
+modules\error_frame.lua
+modules\instance_locks.lua
+modules\keybinds.lua
+modules\loot.lua
+modules\macros.lua
+modules\reagents.lua
+modules\repair.lua
+modules\slash.lua
+modules\trash.lua
+modules\zone_text.lua
